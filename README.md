@@ -1,4 +1,4 @@
-# California H-2A visas analysis
+# california-h2a-visas-analysis
 
 By [Ben Welsh](mailto:ben.welsh@latimes.com)
 
